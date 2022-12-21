@@ -6,14 +6,15 @@ body {
   text-align: center;
 }
 
-.col-sm-4 {
-  padding: 0px;
-  margin: 0px;
+#text {
+  max-width: 75%;
+  text-align: center;
+  background-color: rgba(32, 42, 68, 0.8);
+  margin-top: 5%;
 }
 
-.text {
-  max-width: 1000px;
-  text-align: center;
+h1 {
+  background-color: rgba(32, 42, 68, 0.8);
 }
 
 h3 {
