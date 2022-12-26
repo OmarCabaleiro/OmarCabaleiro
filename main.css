@@ -13,6 +13,10 @@ body {
   margin-top: 5%;
 }
 
+a {
+  color: tomato;
+}
+
 h1 {
   background-color: rgba(32, 42, 68, 0.8);
 }
