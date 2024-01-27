@@ -2,7 +2,6 @@
   margin: 0%;
   padding: 0%;
   font-family: sans-serif;
-  background-color: darkgray;
 }
 
 header {
@@ -20,18 +19,25 @@ a {
   color: black;
 }
 
+.twenty20s {
+  background-color: purple;
+}
+
 h2 {
   font-family: 'Goudy Old Style';
 }
 
 .imgContainer {
-  max-height: 100%;
-  padding: 10px;
-  margin: 10px;
+  position: relative;
+}
+
+.txtContainer {
+  position: absolute;
 }
 
 #laptop {
   max-height: 100vh;
+  align-items: right;
 }
 
 #waitresses {
