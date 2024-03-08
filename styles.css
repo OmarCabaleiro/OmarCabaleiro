@@ -39,11 +39,21 @@ a:link, a:visited {
 
 p {
   text-align: left;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   max-width: 900px;
 }
 
 h3 {
   text-align: left;
   text-decoration: underline;
+}
+
+.content > ul > li {
+  margin-bottom: 25px;
+}
+
+hr.dotted {
+  border-top: 1px dotted;
+  border-bottom: none;
+  margin-bottom: 25px;
 }
